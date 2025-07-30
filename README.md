@@ -65,19 +65,6 @@ Although most of my real-world experience involves building internal systems for
 
 ---
 
-### 📈 GitHub Stats
-
-> ⚠️ Most of my real-world work is in private repos.  
-> Still, I keep building and learning behind the scenes.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zharonk&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zharonk&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/achmadizhar)
